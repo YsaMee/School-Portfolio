@@ -31,8 +31,7 @@ Created as my *Computer Fundamental Programming 1 final project* back in my firs
 <summary> 🎵 <a href="https://github.com/YsaMee/Malayan-Colleges-Mixdown">Malayan Colleges Mixdown</a></summary>
 
 A rhythm game built in Python and pygame, inspired by DDR, Piano Tiles, and Guitar Hero.  
-Players hit arrow keys in sync with a custom chiptune remix of the MMCM Hymn—a fun tribute to student life at Mapúa Malayan Colleges Mindanao.  
-Another *Computer Fundamental Programming 2 final project* which I also did in my Civil Engineering days. lol.
+Players hit arrow keys in sync with a custom chiptune remix of the MMCM Hymn—a fun tribute to student life at Mapúa Malayan Colleges Mindanao.  Another *Computer Fundamental Programming 2 final project* which I also did in my Civil Engineering days. lol.
 
 > ✨ **Python · pygame · Game Development · Custom Music**
 
