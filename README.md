@@ -15,7 +15,7 @@ I hope I’m still alive by the end of it.
 ## 📌 Featured School Works
 
 <details>
-<summary>### 🧾 <a href="https://github.com/YsaMee/TravelersTavern">Traveler’s Tavern</a></summary>
+<summary> 🧾 <a href="https://github.com/YsaMee/TravelersTavern">Traveler’s Tavern</a></summary>
 
 A Python-based, text-based mock kiosk for a self-ordering restaurant.  
 Simulates the ordering process, order customization, and receipt generation, all through a command-line interface.  
@@ -28,7 +28,7 @@ Created as my *Computer Fundamental Programming 1 final project* back in my firs
 ---
 
 <details>
-<summary>### 🎵 <a href="https://github.com/YsaMee/Malayan-Colleges-Mixdown">Malayan Colleges Mixdown</a></summary>
+<summary> 🎵 <a href="https://github.com/YsaMee/Malayan-Colleges-Mixdown">Malayan Colleges Mixdown</a></summary>
 
 A rhythm game built in Python and pygame, inspired by DDR, Piano Tiles, and Guitar Hero.  
 Players hit arrow keys in sync with a custom chiptune remix of the MMCM Hymn—a fun tribute to student life at Mapúa Malayan Colleges Mindanao.  
