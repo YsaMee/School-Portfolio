@@ -35,9 +35,11 @@ Another  *Computer Fundamental Programming 2 final project* which I also did in 
 - Symbolic gameplay that mirrors the ups and downs of student life
 
 --- 
-> Many more to Come!!
+# Many more to Come!!
 
 I’m still learning, experimenting, and making mistakes along the way—but that’s all part of the fun.  
-**Thanks for stopping by!** 🌱
+**Thanks for stopping by!** 
+
+![Funny gif](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
 
 ~~I dedicated a few of my work to HawtStrokes for inspiring me and motivating me to become as good of a programmer as you.~~
