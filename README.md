@@ -38,3 +38,5 @@ Players hit arrow keys in sync with a custom chiptune remix of the MMCM Hymn—a
 
 I’m still learning, experimenting, and making mistakes along the way—but that’s all part of the fun.  
 **Thanks for stopping by!** 🌱
+
+I dedicated a few of my work to HawtStrokes for inspiring me and motivating me to become as good of a programmer as you.
