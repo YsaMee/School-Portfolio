@@ -14,18 +14,25 @@ I hope I’m still alive by the end of it.
 
 ## 📌 Featured School Works
 
-### 🧾 [Traveler’s Tavern](https://github.com/YsaMee/TravelersTavern)
+<details>
+<summary>### 🧾 <a href="https://github.com/YsaMee/TravelersTavern">Traveler’s Tavern</a></summary>
+
 A Python-based, text-based mock kiosk for a self-ordering restaurant.  
 Simulates the ordering process, order customization, and receipt generation, all through a command-line interface.  
-Created as my *Computer Fundamental Programming 1 final project* back in my first year of Civil Engineering— where i first fell in love with coding.
+Created as my *Computer Fundamental Programming 1 final project* back in my first year of Civil Engineering—where I first fell in love with coding.
+
 > 🛠️ **Python · Text UI · Menu System · Receipt Generation**
+
+</details>
 
 ---
 
-### 🎵 [Malayan Colleges Mixdown](https://github.com/YsaMee/Malayan-Colleges-Mixdown)
+<details>
+<summary>### 🎵 <a href="https://github.com/YsaMee/Malayan-Colleges-Mixdown">Malayan Colleges Mixdown</a></summary>
+
 A rhythm game built in Python and pygame, inspired by DDR, Piano Tiles, and Guitar Hero.  
-Players hit arrow keys in sync with a custom chiptune remix of the MMCM Hymn—a fun tribute to student life at Mapúa Malayan Colleges Mindanao.
-Another  *Computer Fundamental Programming 2 final project* which I also did in my Civil Engineering days. lol.
+Players hit arrow keys in sync with a custom chiptune remix of the MMCM Hymn—a fun tribute to student life at Mapúa Malayan Colleges Mindanao.  
+Another *Computer Fundamental Programming 2 final project* which I also did in my Civil Engineering days. lol.
 
 > ✨ **Python · pygame · Game Development · Custom Music**
 
@@ -33,6 +40,8 @@ Another  *Computer Fundamental Programming 2 final project* which I also did in 
 - Fast-paced, retro-inspired rhythm gameplay
 - Custom MMCM Hymn remix in chiptune style
 - Symbolic gameplay that mirrors the ups and downs of student life
+
+</details>
 
 --- 
 # Many more to Come!!
