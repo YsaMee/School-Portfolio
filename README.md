@@ -49,7 +49,7 @@ Players hit arrow keys in sync with a custom chiptune remix of the MMCM Hymn—a
 
 A user-centered wellness companion app for gamers.  
 Helps players build healthier gaming habits through non-intrusive reminders, mood journaling, and gamified wellness features—without interrupting gameplay.  
-Made as a **Human-Computer Interaction (HCI) research prototype**.
+Made as a **Human-Computer Interaction (HCI) research prototype**. This is my first project as a Computer Science student and I couldn't be any more happier.
 
 > 📱 **Prototype · UX/UI · Gamification · Wellness**
 
