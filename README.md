@@ -31,7 +31,7 @@ Created as my *Computer Fundamental Programming 1 final project* back in my firs
 <summary> 🎵 <a href="https://github.com/YsaMee/Malayan-Colleges-Mixdown">Malayan Colleges Mixdown</a></summary>
 
 A rhythm game built in Python and pygame, inspired by DDR, Piano Tiles, and Guitar Hero.  
-Players hit arrow keys in sync with a custom chiptune remix of the MMCM Hymn—a fun tribute to student life at Mapúa Malayan Colleges Mindanao.  Another *Computer Fundamental Programming 2 final project* which I also did in my Civil Engineering days. lol.
+Players hit arrow keys in sync with a custom chiptune remix of the MMCM Hymn—a fun tribute to student life at Mapúa Malayan Colleges Mindanao. Another *Computer Fundamental Programming 2 final project* which I also did in my Civil Engineering days. lol.
 
 > ✨ **Python · pygame · Game Development · Custom Music**
 
@@ -42,7 +42,24 @@ Players hit arrow keys in sync with a custom chiptune remix of the MMCM Hymn—a
 
 </details>
 
---- 
+---
+
+<details>
+<summary> 🎮 <a href="https://github.com/YsaMee/PausePlusPlay">Pause+Play</a></summary>
+
+A user-centered wellness companion app for gamers.  
+Helps players build healthier gaming habits through non-intrusive reminders, mood journaling, and gamified wellness features—without interrupting gameplay.  
+Made as a **Human-Computer Interaction (HCI) research prototype**.
+
+> 📱 **Prototype · UX/UI · Gamification · Wellness**
+
+**Quick demo:**  
+[View the interactive prototype →](https://app.visily.ai/projects/b460ad27-49ad-4221-9d37-78e79ae3a8f2/boards/1949215/presenter?play-mode=Prototype)
+
+</details>
+
+---
+
 # Many more to Come!!
 
 I’m still learning, experimenting, and making mistakes along the way—but that’s all part of the fun.  
