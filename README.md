@@ -45,7 +45,7 @@ Players hit arrow keys in sync with a custom chiptune remix of the MMCM Hymn—a
 ---
 
 <details>
-<summary> 🎮 <a href="https://github.com/YsaMee/PausePlusPlay">Pause+Play</a></summary>
+<summary> 🎮 <a href="https://github.com/YsaMee/Pause-Play">Pause+Play</a></summary>
 
 A user-centered wellness companion app for gamers.  
 Helps players build healthier gaming habits through non-intrusive reminders, mood journaling, and gamified wellness features—without interrupting gameplay.  
