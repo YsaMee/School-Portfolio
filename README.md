@@ -70,4 +70,4 @@ I’m still learning, experimenting, and making mistakes along the way—but tha
 </p>
 
 
-~~I dedicated a few of my work to HawtStrokes for inspiring me and motivating me to become as good of a programmer as you.~~
+~~I dedicated a few of my work to a friend for inspiring me and motivating me to become as good of a programmer as you.~~
