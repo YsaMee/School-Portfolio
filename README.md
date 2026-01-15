@@ -68,6 +68,3 @@ I’m still learning, experimenting, and making mistakes along the way—but tha
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlwdzM3YXV2cHYxcDMxc3JnZXc4bHNlZ2g3bGlqbG1wdWx6cTR6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="300">
 </p>
-
-
-~~I dedicated a few of my work to a friend for inspiring me and motivating me to become as good of a programmer as you.~~
