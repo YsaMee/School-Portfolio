@@ -4,7 +4,7 @@ This is my school portfolio showcasing my coding projects from Civil Engineering
 # ✨ Hi! I'm Ysa (<-- Code Name)
 
 I’m a former Civil Engineering student turned Computer Science student, currently learning to code (and survive).  
-I hope to specialize in **Cybersecurity, Machine Learning, or Artificial Intelligence** someday.  
+I hope to specialize in **UI Designing, Machine Learning, or Artificial Intelligence** someday.  
 It’s kinda hard right now—but hey, I’ll pull through. :’)
 
 I use this GitHub to share my **school projects, passion projects**, and whatever else I build along the way.  
